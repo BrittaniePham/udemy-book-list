@@ -10,6 +10,7 @@ class BookDetail extends Component {
         </div>
       )
     }
+    
     return (
       <div>
         <h3>Details for:</h3>
